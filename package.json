@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "vue-star-rating": "^2.1.0"
+  }
+}
